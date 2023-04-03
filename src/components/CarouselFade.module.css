@@ -1,0 +1,9 @@
+.carousel {
+    width: 100%;
+  }
+  
+  .carousel img {
+    height: 500px; /*changed from 400s*/
+    object-fit: cover;
+    filter: brightness(80%);
+  }

@@ -1,0 +1,21 @@
+.cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cart h1 {
+    margin: 20px;
+}
+.cartList {
+    padding-left: 0px;
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    min-height: 100vh;
+}
